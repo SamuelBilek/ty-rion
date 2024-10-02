@@ -1,0 +1,17 @@
+Milestone_1
+Time spent: +- 2 hours on seminar, 30 minutes finishing seminar work at home, 1.5 hours finishing milestone 1
+
+Milestone_2
+Time spent: 3 Hours
+
+Milestone_3
+Time spent: 4 Hours of creating effects, searching for models and creating new ones. My models are the meteors and the alien projectiles.
+A used this persons models for aliens and player's spaceship: https://www.cgtrader.com/vitor-ecasquinha-costa
+You can find some screenshots in the new screenshots folder
+
+Milestone_4
+Time spent: 3 hours
+New screenshots added
+
+Milestone_5
+Time spent: 6+ hours of adding sound, making a bossfight, tweaking and testing
